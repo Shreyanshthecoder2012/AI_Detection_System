@@ -47,7 +47,7 @@ python3 download_model.py
 ## ▶️ Run the App
 
 ```bash
-python3 full_app.py
+python3 app.py
 ```
 
 ---
