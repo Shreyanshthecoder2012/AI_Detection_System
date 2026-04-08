@@ -31,7 +31,7 @@ A simple yet powerful AI-based desktop application that performs **real-time obj
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Detection-App.git
+git clone https://github.com/Shreyanshthecoder2012/AI-Detection-App.git
 cd AI-Detection-App
 ```
 
@@ -39,6 +39,7 @@ cd AI-Detection-App
 
 ```bash
 pip install -r requirements.txt
+python3 download_model.py
 ```
 
 ---
