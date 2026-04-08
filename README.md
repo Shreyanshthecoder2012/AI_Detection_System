@@ -84,7 +84,7 @@ No manual download required.
 ```
 AI-Detection-App/
 │
-├── full_app.py
+├── app.py
 ├── cctv.py
 ├── image_detect.py
 ├── download_model.py
