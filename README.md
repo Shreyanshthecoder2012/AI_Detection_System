@@ -107,6 +107,10 @@ AI-Detection-App/
 **Shreyansh** 🚀
 Passionate about AI, coding, and building cool stuff
 
+**NOTE**
+I have used <b>MobileNet SSD model<b> for object detection and it play a vital role in project so I deeply respect and thank its creator for such a modal link to modal:
+<br>
+https://github.com/chuanqi305/MobileNet-SSD
 ---
 
 ## ⭐ Support
@@ -115,6 +119,6 @@ If you like this project:
 
 * Star ⭐ the repo
 * Share with friends
-* Build something even cooler 😏
+* Build something even cooler with me you can contact me 😏
 
 ---
