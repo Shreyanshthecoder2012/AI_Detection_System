@@ -99,6 +99,7 @@ AI-Detection-App/
 * Works best with good lighting conditions
 * Detection accuracy depends on model limitations
 * Designed for learning and experimentation
+*Python must be installed in your system
 
 ---
 
